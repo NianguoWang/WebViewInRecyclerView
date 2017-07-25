@@ -126,3 +126,5 @@ private class RecyclerViewOnTouchListener implements View.OnTouchListener {
 recyclerView.setOnTouchListener(new RecyclerViewOnTouchListener());
 ```
 具体逻辑代码注释已经写的很清楚了，这里就不再啰嗦了。
+
+简书：http://www.jianshu.com/p/dc0a2eead6cd
